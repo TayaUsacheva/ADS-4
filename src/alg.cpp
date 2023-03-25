@@ -1,7 +1,3 @@
-// Copyright 2021 NNTU-CS
-#include <iostream>
-
-using namespace std;
 int countPairs1(int *arr, int len, int value) {
     int count1 = 0;
     for (int i = 0; i < len - 1; i++) {
